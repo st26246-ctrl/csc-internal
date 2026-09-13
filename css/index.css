@@ -54,4 +54,11 @@ header::before {
     background-color: rgba(245, 232, 199, 0.5);
     z-index: 2;
 }
+/* header and links positioning */
+header h1,
+.header-links {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+}
 
