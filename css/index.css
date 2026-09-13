@@ -70,4 +70,13 @@ header h1 {
     margin-top: 100px;
 }
 
+/* Nav links styling */
+.header-links a {
+    color: #3B1F1E;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 30px;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
 
