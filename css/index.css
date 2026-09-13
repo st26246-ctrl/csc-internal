@@ -79,4 +79,8 @@ header h1 {
     font-weight: 600;
     transition: color 0.3s ease;
 }
+/* hover effect on nav links */
+.header-links a:hover {
+    color: #D4AF37; 
+}
 
