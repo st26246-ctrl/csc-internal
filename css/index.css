@@ -28,6 +28,9 @@
     height: auto;
 }
 
-
-
+header {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
 
